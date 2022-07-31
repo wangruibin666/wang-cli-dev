@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/index.js",
+  "bin": {
+    "wang-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -19,5 +22,5 @@
   "scripts": {
     "test": "echo \"run tests from utils\""
   },
-  "gitHead": "c1a9b2404e266fabdac01f85f47022fb96368459"
+  "gitHead": "cde8942c481c85d906ccb571e493853f26cee30a"
 }
