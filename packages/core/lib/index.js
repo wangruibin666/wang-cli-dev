@@ -1,7 +1,7 @@
 #! /usr/bin/env node
 module.exports = core;
 
-console.log('1234567')
+console.log('12345678')
 
 function core() {
     // TODO
