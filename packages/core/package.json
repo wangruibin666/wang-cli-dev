@@ -1,6 +1,6 @@
 {
   "name": "@wang-cli-dev/core",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "wang-cli-dev core",
   "author": "“wangruibin666” <“1099690237@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"run tests from core\""
   },
   "dependencies": {
-    "@wang-cli-dev/utils": "^0.0.3"
+    "@wang-cli-dev/utils": "^0.0.4"
   },
   "gitHead": "929f485e8d850658e2292413eb93e4b3260ec0fe"
 }
