@@ -25,5 +25,6 @@
   },
   "dependencies": {
     "@wang-cli-dev/utils": "^0.1.1"
-  }
+  },
+  "gitHead": "cdb28bd7e42cc2b540f868db9825639c6afe7d51"
 }
