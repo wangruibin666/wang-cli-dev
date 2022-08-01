@@ -1,6 +1,6 @@
 {
   "name": "@wang-cli-dev/core",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "> TODO: description",
   "author": "“wangruibin666” <“1099690237@qq.com>",
   "homepage": "https://github.com/wangruibin666/wang-cli-dev/tree/master/packages/core#readme",
@@ -24,7 +24,7 @@
     "url": "https://github.com/wangruibin666/wang-cli-dev/issues"
   },
   "dependencies": {
-    "@wang-cli-dev/utils": "^0.1.2"
+    "@wang-cli-dev/utils": "^0.1.3"
   },
   "gitHead": "f7b24792e136986dbe65a71322c79ce151c0d7ef"
 }
