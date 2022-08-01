@@ -1,6 +1,6 @@
 {
   "name": "@wang-cli-dev/utils",
-  "version": "0.1.3",
+  "version": "0.1.2",
   "description": "> TODO: description",
   "author": "“wangruibin666” <“1099690237@qq.com>",
   "homepage": "https://github.com/wangruibin666/wang-cli-dev/tree/master/packages/utils#readme",
@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/wangruibin666/wang-cli-dev/issues"
   },
-  "gitHead": "f7b24792e136986dbe65a71322c79ce151c0d7ef"
+  "gitHead": "f7b24792e136986dbe65a71322c79ce151c0d7ef",
+  "publishConfig": {
+    "access": "public"
+  }
 }
