@@ -6,6 +6,9 @@
   "homepage": "https://github.com/wangruibin666/wang-cli-dev/tree/master/packages/utils#readme",
   "license": "ISC",
   "main": "lib/index.js",
+  "bin": {
+    "wang-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -23,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/wangruibin666/wang-cli-dev/issues"
   },
-  "gitHead": "cdb28bd7e42cc2b540f868db9825639c6afe7d51"
+  "gitHead": "f7b24792e136986dbe65a71322c79ce151c0d7ef"
 }
