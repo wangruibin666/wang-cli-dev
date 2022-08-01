@@ -1,18 +1,23 @@
 {
   "name": "wang-cli-dev",
   "version": "1.0.0",
-  "description": "wang-cli dev",
+  "description": "wang-cli-dev",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangruibin666/wang-cli-dev.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "lerna": "^5.3.0"
+  "bugs": {
+    "url": "https://github.com/wangruibin666/wang-cli-dev/issues"
   },
-  "workspaces": [
-    "packages/*"
-  ]
+  "homepage": "https://github.com/wangruibin666/wang-cli-dev#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
 }

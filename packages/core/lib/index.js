@@ -1,9 +1,7 @@
-#! /usr/bin/env node
-module.exports = core;
+'use strict';
 
-console.log('12345678')
+module.exports = core;
 
 function core() {
     // TODO
-    //
 }
