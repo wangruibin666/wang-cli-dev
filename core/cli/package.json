@@ -1,9 +1,9 @@
 {
-  "name": "@wang-cli-dev/utils",
+  "name": "@wang-cli-dev/core",
   "version": "0.1.5",
   "description": "> TODO: description",
   "author": "“wangruibin666” <“1099690237@qq.com>",
-  "homepage": "https://github.com/wangruibin666/wang-cli-dev/tree/master/packages/utils#readme",
+  "homepage": "https://github.com/wangruibin666/wang-cli-dev/tree/master/packages/core#readme",
   "license": "ISC",
   "main": "lib/index.js",
   "bin": {
@@ -25,6 +25,13 @@
   },
   "bugs": {
     "url": "https://github.com/wangruibin666/wang-cli-dev/issues"
+  },
+  "dependencies": {
+    "@wang-cli-dev/log": "file:../../utils/log",
+    "colors": "^1.4.0",
+    "import-local": "^3.1.0",
+    "npmlog": "^6.0.2",
+    "semver": "^7.3.7"
   },
   "gitHead": "9451e22ffeb42b2a6d3ecf94e1538beacb0e0a60",
   "publishConfig": {
