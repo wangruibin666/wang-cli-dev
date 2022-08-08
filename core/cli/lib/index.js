@@ -22,7 +22,7 @@ function core() {
     // checkUserHome();
     checkInputArgs();
     checkEnv();
-    log.verbose('debug', 'test debug log');
+    log.verbose('debug', 'test debug log!');
   } catch (e) {
     log.error(e.message);
   }
@@ -31,7 +31,7 @@ function checkGlobalUpdate() {
   // 1.获取当前版本号和模块名
   const currentVersion = pkg.version;
   const npmName = pkg.name;
-  
+
   // 2.调用npm API，获取所有版本号
 
   // 3.提取所有版本号，比对哪些版本号是大于当前版本号
