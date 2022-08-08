@@ -10,4 +10,4 @@ if (importLocal(__filename)) {
 }
 
 utils()
-console.log(' hello wang-cli');
+// console.log(' hello wang-cli');

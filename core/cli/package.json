@@ -28,10 +28,17 @@
   },
   "dependencies": {
     "@wang-cli-dev/log": "file:../../utils/log",
+    "@wang-cli-dev/utils": "file:../../utils/utils",
+    "@wang-cli-dev/get-npm-info": "file:../../utils/get-npm-info",
     "colors": "^1.4.0",
+    "dotenv": "^16.0.1",
     "import-local": "^3.1.0",
+    "minimist": "^1.2.6",
     "npmlog": "^6.0.2",
-    "semver": "^7.3.7"
+    "path-exists": "4.0.0",
+    "root-check": "1.0.0",
+    "semver": "^7.3.7",
+    "user-home": "^3.0.0"
   },
   "gitHead": "9451e22ffeb42b2a6d3ecf94e1538beacb0e0a60",
   "publishConfig": {
